@@ -1,3 +1,5 @@
+!!! SOLUTION CODE FOR THE PROJECT!!!
+
 Project: Lemonade App - Starter Code
 ==================================
 
